@@ -42,12 +42,12 @@ Added the following Performance Rules on Hyper-V Virtual Processor level:
 - Minor textual optimizations
 
 ### Release 4.0.0.0
-- Added support for Windows Server Hyper-V 2022
-- Added support for Windows Server Hyper-V 2025
+- Added support for Windows Server Hyper-V 2022 (validated compatibility)
+- Added support for Windows Server Hyper-V 2025 (validated compatibility)
 - Added new dashboards for Hyper-V Hosts
 - Added new dashboards for Hyper-V Virtual Machines
 - General enhancements and optimizations
-- Updated and extended community edition by GripMatix
+- Updated and extended community edition maintained by GripMatix
 
 ## Requirements
 - SCOM 2019 Operations Manager or higher
