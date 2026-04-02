@@ -49,6 +49,9 @@ Added the following Performance Rules on Hyper-V Virtual Processor level:
 - General enhancements and optimizations
 - Updated and extended community edition maintained by GripMatix
 
+### Release 4.0.0.1
+- Added improvements to several views.
+
 ## Requirements
 - SCOM 2019 Operations Manager or higher
 
@@ -74,7 +77,4 @@ This version further enhances that work with support for Hyper-V 2022 and 2025, 
 ## Important!
 The management pack file names have changed in version 4.0.0.0. The new files cannot be imported over those from previous versions.
 Remove the existing management pack files from your SCOM Management Group before importing version 4.0.0.0.
-
-By default, all performance collection rules are disabled. You can enable them manually or import the “HyperV.MPE.EnableRules.mpb” override Management Pack to enable them all at once.
-
 
