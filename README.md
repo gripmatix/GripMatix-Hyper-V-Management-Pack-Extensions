@@ -52,6 +52,9 @@ Added the following Performance Rules on Hyper-V Virtual Processor level:
 ### Release 4.0.0.1
 - Added improvements to several views.
 
+### Release 4.0.0.2
+- Added 'Hyper-V MPE 2019 Virtual Machine Snapshots Age' monitor.
+
 ## Requirements
 - SCOM 2019 Operations Manager or higher
 
