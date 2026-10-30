@@ -1,5 +1,9 @@
 # Hyper-V Management Pack Extensions
 
+## Community Edition
+
+This Community Edition is provided free of charge. GripMatix may release updates at its own discretion but does not review or merge external contributions. You are welcome to use, modify and extend the Management Pack for your own needs, and to share or publish your own version. Testing, maintenance and support of modified versions are the responsibility of their respective authors.
+
 This Hyper-V Management Pack Extensions package is intended to add enhanced performance monitoring to the existing Hyper-V SCOM Management Pack.
 
 This Management Pack includes monitors, rules, views, and dashboards that provide improved visibility into Hyper-V hosts and virtual machines. To avoid excessive database growth, most performance collection rules are disabled by default. These rules can be enabled selectively when needed for environment baselining and deeper analysis.
